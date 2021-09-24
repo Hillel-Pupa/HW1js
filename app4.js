@@ -1,0 +1,5 @@
+let set = prompt('set', '')
+let set2 = prompt('set', '')
+let set3 = prompt('set', '')
+let get = (set+set2+set3)
+alert(get)
